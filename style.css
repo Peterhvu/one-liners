@@ -23,7 +23,7 @@ body {
 
 .swiper-slide {
     text-align: center;
-    font-size: 10vw;
+    font-size: 20vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@ body {
 
 .swiper-slide p {
     width: 100%;
-    font-size: 10vh;
+    font-size: 20vh;
 }
 
 /* overriding swipper's bundle style  */
@@ -72,7 +72,7 @@ body {
     }
 
     .swiper-slide {
-        font-size: 10vh;
+        font-size: 20vh;
     }
 
     .swiper-horizontal>.swiper-pagination-progressbar,
