@@ -1,4 +1,4 @@
-const cacheName = 'v.1.0'; 
+const cacheName = 'v.1.1'; 
 const precacheResources = [
     "index.html",
     "manifest.json",
@@ -8,7 +8,7 @@ const precacheResources = [
     "style.css",
     "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
     "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
-    "https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap"
+    "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap"
 ];
 
 self.addEventListener('install', event => {

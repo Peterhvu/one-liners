@@ -31,7 +31,7 @@ var swiper = new Swiper(".mySwiper", {
 ///---- make cards using cards Array loaded from jokes.js
 
 function getCount() {
-    let perLoadCount = 20;
+    let perLoadCount = 30;
     return cards.length >= perLoadCount ? perLoadCount : cards.length
 }
 
