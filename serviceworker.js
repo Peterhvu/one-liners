@@ -1,7 +1,6 @@
-const cacheName = 'v.1.1'; 
+const cacheName = 'v.1.2'; 
 const precacheResources = [
     "index.html",
-    "manifest.json",
     "jokes.min.js",
     "main.js",
     "normalize.css",
