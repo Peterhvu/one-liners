@@ -1,0 +1,16 @@
+{
+    "name": "1 Liner Jokes",
+    "short_name": "lol",
+    "icons": [
+        {
+            "src": "touch-icon-iphone-retina.png",
+            "type": "image/png",
+            "sizes": "192x192 512x512"
+        }
+    ],
+    "display": "standalone",
+    "display_override": [
+        "fullscreen"
+    ],
+    "start_url": "/kid-trivia/index.html"
+}
